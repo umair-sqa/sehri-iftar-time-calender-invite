@@ -1,12 +1,12 @@
 {
   "name": "calender-invite",
   "version": "1.0.0",
-  "description": "",
+  "description": "This Node.js script fetches Sehri (Imsak) and Iftar (Maghrib) times for a specified city and generates calendar files (`.ics`) for each day of the month. These files can be imported into calendar applications like Google Calendar or Outlook.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "UmairQA",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.8.1",
