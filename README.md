@@ -51,7 +51,7 @@ const config = {
 Run the script to generate ICS files for a specific month and year:
 
 ```sh
-node script.js
+node main.js
 ```
 
 By default, it generates Sehri and Iftar times for **March 2025**. Modify this in the function call:
